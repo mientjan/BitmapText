@@ -1,10 +1,12 @@
-createjsbitmaptext
+BitmapText
 ==================
 
-bitmap font library for createjs library
+bitmap font library for easelts library
 
 Use bmFonts or GlyphDesigner to export bitmap fonts.
 Inspired from starling bitmap fonts.
+
+This is rewrite of createjsbitmaptext to typescript.
 
 Important notes:
 	
